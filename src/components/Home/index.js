@@ -79,8 +79,9 @@ class Home extends Component {
             <p>
               Am from Humnabad dist Bidar Karnataka, am graduated in the field
               of Mechanical Engineering in the year of 2018 from Reva college
-              Bengaluru, and I have worked for 2 years as an Automobile Data
-              Analyst in ClearQuote Technologies Pvt Ltd.
+              Bengaluru,
+              <br />I have worked for 2 years as an Automobile Data Analyst in
+              ClearQuote Technologies Pvt Ltd.
               <br />
               Am trained in fullstack developer
             </p>

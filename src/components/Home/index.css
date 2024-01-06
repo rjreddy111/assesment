@@ -3,13 +3,12 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: space-between;
 }
 
 .left-container {
-  width: 60%;
   justify-self: flex-start;
-  width: Fixed (486px);
+  width: 65%;
   height: Hug (408px);
   top: 111px;
   left: 120px;
